@@ -20,6 +20,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+##
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -97,7 +99,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </p>
-
+##
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanpeal&show_icons=true&theme=dark&locale=en&layout=compact" alt="hasanpeal" /> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanpeal&theme=dark" width="418" height="318" alt="hasanpeal" />
 <img src="https://raw.githubusercontent.com/hasanpeal/hasanpeal/output/snake.svg" alt="Snake animation" />
