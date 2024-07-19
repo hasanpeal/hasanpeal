@@ -26,4 +26,7 @@
 
 ![snake gif](https://github.com/hasanpeal/hasanpeal/blob/output/github-contribution-grid-snake.gif)
 
+<img src="https://raw.githubusercontent.com/hasanpeal/hasanpeal/output/snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/hasanpeal/hasanpeal/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
