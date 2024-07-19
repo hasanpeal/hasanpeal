@@ -24,9 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanpeal&show_icons=true&theme=dark&locale=en&layout=compact" alt="hasanpeal" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanpeal&theme=dark" width="418" height="318" alt="hasanpeal" /></p>
 
-![snake gif](https://github.com/hasanpeal/hasanpeal/blob/output/github-contribution-grid-snake.gif)
-
-<img src="https://raw.githubusercontent.com/hasanpeal/hasanpeal/output/snake.svg" alt="Snake animation" />
-
 <img src="https://github.com/hasanpeal/hasanpeal/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
