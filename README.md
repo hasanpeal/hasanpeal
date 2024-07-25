@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Peal Hasan</h1>
 <h3 align="center">A passionate Full Stack SWE 🎓 B.S. Computer Science @ SBU 2026</h3>
 
-- 🔭 I’m currently working on [Spotcast](https://github.com/hasanpeal/Spotcast)
+- 🔭 I’m currently working on [Signez](https://github.com/hasanpeal/Signez)
 
 - 🌱 I’m currently learning **Scikit learn**
 
