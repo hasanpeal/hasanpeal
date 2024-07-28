@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Scikit learn**
 
-- 👨‍💻 All of my projects are available at [www.pealhasan.com](www.pealhasan.com)
+- 👨‍💻 All of my projects are available at [https://www.pealhasan.com](www.pealhasan.com)
 
 - 💬 Ask me about **react, express, node**
 
 - 📫 How to reach me **pealh0320@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pealhasan](www.linkedin.com/in/pealhasan)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pealhasan](www.linkedin.com/in/pealhasan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
