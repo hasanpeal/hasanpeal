@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pealh0320@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pealhasan](https://www.linkedin.com/in/pealhasan)
+- 📄 Know about my experiences [Resume](https://pealhasan.com/assests/HasanResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
