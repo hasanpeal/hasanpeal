@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, express, node**
 
-- 📫 How to reach me **pealh0320@gmail.com**
+- 📫 How to reach me **dev@pealhasan.com**
 
 - 📄 Know about my experiences [Resume](https://pealhasan.com/assests/HasanResume.pdf)
 
