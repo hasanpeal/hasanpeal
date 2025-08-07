@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Peal Hasan</h1>
 <h3 align="center">A passionate Full Stack SWE 🎓 B.S. Computer Science @ SBU 2026</h3>
 
-- 🔭 I’m currently working on [FeedRecap](https://github.com/hasanpeal/FeedRecap)
+- 🔭 I’m currently working on [AlphaSignalAI](https://github.com/hasanpeal/AlphaSignalAI)
 
 - 🌱 I’m currently learning **Scikit learn**
 
@@ -11,12 +11,11 @@
 
 - 📫 How to reach me **dev@pealhasan.com**
 
-- 📄 Know about my experiences [Resume](https://pealhasan.com/assests/HasanResume.pdf)
+- 📄 Know about my experiences [Resume](https://pealhasan.com/assests/ResumeHasan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pealhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pealhasan" height="30" width="40" /></a>
-<a href="https://instagram.com/pealhasann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pealhasann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
