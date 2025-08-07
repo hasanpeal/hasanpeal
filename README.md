@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dev@pealhasan.com**
 
-- 📄 Know about my experiences [Resume](https://pealhasan.com/assests/ResumeHasan.pdf)
+- 📄 Know about my experiences [Resume](https://www.pealhasan.com/HasanResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
