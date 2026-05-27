@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 👋 I'm Peal Hasan</h1>
-<h3 align="center">A passionate Full Stack SWE 🎓 B.S. CS @ SBU 2026</h3>
 
 - 🔭 I’m currently working on [Eloomen](https://github.com/hasanpeal/Eloomen)
 
