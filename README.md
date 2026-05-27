@@ -1,4 +1,4 @@
-<h3 align="center">Hello World 👋 I'm Peal Hasan</h1>
+<h2> align="center">Hello World 👋 I'm Peal Hasan</h2>
 
 - 🔭 I’m currently working on [Eloomen](https://github.com/hasanpeal/Eloomen)
 
