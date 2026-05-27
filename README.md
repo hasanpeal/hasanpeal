@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋 I'm Peal Hasan</h1>
-<h3 align="center">A passionate Full Stack SWE 🎓 B.S.c CS @ SBU 2026</h3>
+<h3 align="center">A passionate Full Stack SWE 🎓 B.S. CS @ SBU 2026</h3>
 
 - 🔭 I’m currently working on [Eloomen](https://github.com/hasanpeal/Eloomen)
 
-- 🌱 I’m currently learning **Scikit learn**
+- 🌱 I’m currently learning **LangGraph**
 
 - 👨‍💻 All of my projects are available at [www.pealhasan.com](https://www.pealhasan.com)
 
